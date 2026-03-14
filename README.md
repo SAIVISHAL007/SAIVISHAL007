@@ -1,134 +1,146 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=booting+developer_profile...;loading+project_modules...;initializing+system...;ready." />
+</p>
+
 <h1 align="center">Chelluri Sai Vishal</h1>
 
 <p align="center">
-Full Stack Developer | AI & ML Engineering Student
+<code>full_stack_developer | ai_ml_engineering_student</code>
 </p>
 
 <p align="center">
-Building scalable web applications and intelligent software systems
+building scalable web applications and intelligent systems
 </p>
 
 ---
 
-## Professional Summary
+<pre>
+vishal@github:~$ whoami
+chelluri-sai-vishal
+
+vishal@github:~$ role
+full_stack_developer
+
+vishal@github:~$ specialization
+ai_systems
+backend_architecture
+web_platforms
+
+vishal@github:~$ status
+actively_building_projects
+</pre>
+
+---
+
+# system.profile
 
 I am a Computer Science engineering student specializing in Artificial Intelligence and Machine Learning. My work focuses on building practical software systems that combine strong backend architecture with modern frontend experiences.
 
-I actively build full-stack applications and experiment with intelligent systems such as machine learning models, automation pipelines, and retrieval-augmented AI systems. My goal is to design software that is both technically strong and useful in real-world environments.
+I actively build full-stack applications and experiment with intelligent systems such as machine learning models, automation pipelines, and retrieval-augmented AI systems.
 
-Areas of focus include full stack development, intelligent automation systems, machine learning applications, and scalable backend architecture.
+My goal is to design software that is technically strong, scalable, and useful in real-world environments.
 
----
+Areas of focus include:
 
-## Education
-
-**Bachelor of Technology — Computer Science and Engineering (AI & ML)**  
-Anil Neerukonda Institute of Technology & Sciences (ANITS)  
-2023 – 2027  
-
-CGPA: 8.43 / 10
+• Full stack development  
+• Intelligent automation systems  
+• Machine learning applications  
+• Scalable backend architecture  
 
 ---
 
-## Technical Expertise
+# system.education
 
-### Full Stack Development
-Designing and deploying production-ready web applications using modern web technologies.
-
-### Backend Engineering
-Developing RESTful APIs, authentication systems, and optimized database schemas for scalable applications.
-
-### Machine Learning
-Building predictive models, time-series forecasting systems, and AI-powered applications.
-
-### AI Systems
-Working with large language models, retrieval-augmented generation pipelines, and intelligent document processing systems.
-
-### Database Systems
-Designing efficient data schemas and optimizing query performance.
+<pre>
+institution : Anil Neerukonda Institute of Technology & Sciences
+degree      : B.Tech Computer Science & Engineering (AI & ML)
+duration    : 2023 - 2027
+cgpa        : 8.43 / 10
+</pre>
 
 ---
 
-## Technology Stack
+# system.tech_stack
 
-### Programming Languages
+### programming_languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,java" />
 </p>
 
-### Web Development
+### web_development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,html,css" />
 </p>
 
-### AI / Machine Learning
+### ai_ml
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-Libraries and tools frequently used:
+Libraries and tools used frequently:
 
-- Scikit-learn  
-- LangChain  
-- FAISS  
-- LSTM neural networks  
-- Random Forest models  
+• Scikit-learn  
+• LangChain  
+• FAISS  
+• LSTM neural networks  
+• Random Forest models  
 
-### Tools & Platforms
+### tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
-Other tools:
+Other tools used in projects:
 
-- Streamlit  
-- GitHub Copilot  
-- Postman  
+• Streamlit  
+• GitHub Copilot  
+• Postman  
 
 ---
 
-## Work Experience
+# system.experience
 
 ### AR Development Extern — Snap Inc.
-Participated in a hands-on externship focused on augmented reality and interactive storytelling.
 
-Responsibilities and learning areas:
+Worked on augmented reality experiences and interactive storytelling using Lens Studio.
 
-- Prototyped AR experiences using Lens Studio  
-- Explored visual scripting and interactive filter design  
-- Studied narrative integration within AR environments  
-- Collaborated on creative engagement strategies
+Responsibilities included:
+
+• Prototyping AR filters and visual interactions  
+• Exploring visual scripting techniques  
+• Studying user engagement patterns in AR environments  
+• Integrating narrative concepts into interactive experiences  
 
 ---
 
 ### AI & Automation Extern — Outamation
 
-Worked on building a Retrieval-Augmented Generation pipeline for enterprise document intelligence.
+Worked on building a Retrieval-Augmented Generation pipeline for enterprise document processing.
 
-Key work:
+Key contributions:
 
-- Implemented RAG architecture using Mistral 7B models  
-- Built document classification system using MiniLM embeddings  
-- Designed FAISS vector indexes for document retrieval  
-- Optimized chunking and retrieval logic to improve response relevance and speed
+• Implemented RAG architecture using Mistral 7B models  
+• Built document classification pipelines using MiniLM embeddings  
+• Designed FAISS vector indexes for document retrieval  
+• Optimized chunking and retrieval logic for accuracy and speed  
 
 ---
 
 ### Machine Learning Intern — Edunet Foundation (AICTE Internship)
 
-Developed a multi-output regression model for predicting environmental pollutants.
+Developed a multi-output regression system for predicting environmental pollutants.
 
 Key work:
 
-- Built Random Forest models to predict multiple pollutant indicators  
-- Engineered domain-specific features  
-- Applied encoding and missing value handling  
-- Evaluated performance using R² and MSE  
-- Deployed application using Streamlit
+• Built Random Forest regression models  
+• Engineered domain-specific features  
+• Applied encoding and missing value strategies  
+• Evaluated performance using R² and MSE metrics  
+• Deployed the solution using Streamlit  
 
 ---
 
@@ -136,37 +148,37 @@ Key work:
 
 Gained exposure to Security Operations Center workflows.
 
-Work included:
+Work involved:
 
-- Monitoring security logs using Microsoft Azure Sentinel  
-- Performing log analysis and threat detection exercises  
-- Working with Azure monitoring agents and security event pipelines
+• Monitoring security logs using Microsoft Azure Sentinel  
+• Performing threat analysis exercises  
+• Working with Azure monitoring agents and log pipelines  
 
 ---
 
-## Featured Projects
+# system.projects
 
 ### Student Late Tracking System (MERN Stack)
 
-A production-ready web platform developed to manage and monitor student attendance behavior in educational institutions.
+A production-ready web platform designed to monitor student attendance behavior in educational institutions.
 
-Key features:
+Core features:
 
-- Role-based authentication (SuperAdmin, Admin, Faculty)
-- Real-time attendance monitoring
-- Automated fine calculation
-- Analytics dashboard with financial insights
-- Export functionality for reports
+• Role-based authentication (SuperAdmin, Admin, Faculty)  
+• Real-time attendance monitoring  
+• Automated fine calculation system  
+• Analytics dashboard with financial insights  
+• Exportable reports  
 
-Technical implementation:
+Technical architecture:
 
-- 20+ REST APIs built using Node.js and Express
-- MongoDB schema optimization with indexing
-- JWT authentication with secure password hashing
-- Serverless backend deployment
-- Responsive React frontend
+• 20+ REST APIs built using Node.js and Express  
+• MongoDB schema optimization with indexing  
+• JWT authentication with secure password hashing  
+• Serverless backend deployment  
+• Responsive React frontend  
 
-Project repository:  
+Repository  
 https://github.com/SAIVISHAL007/StudentLateTrackingSystem-Clean
 
 ---
@@ -175,110 +187,94 @@ https://github.com/SAIVISHAL007/StudentLateTrackingSystem-Clean
 
 A web platform designed to streamline hostel management operations.
 
-Key features:
+Key components:
 
-- Real-time complaint management
-- Room allocation system
-- Admin dashboard
-- Integrated AI chatbot powered by Gemini API
-- Responsive user interface
+• Complaint management system  
+• Room allocation management  
+• Admin dashboard  
+• AI chatbot powered by Gemini API  
+• Responsive interface  
 
 Technologies used:
 
-- Django
-- HTML
-- CSS
-- JavaScript
-- Gemini AI API
+Django  
+HTML  
+CSS  
+JavaScript  
 
 ---
 
-### AI Document Retrieval System (RAG)
+### AI Document Retrieval System
 
-Designed an intelligent document query system using Retrieval-Augmented Generation.
+An intelligent document query system based on Retrieval-Augmented Generation.
 
-System architecture:
+Architecture includes:
 
-- Embedding generation using MiniLM
-- Vector indexing using FAISS
-- Query processing using LangChain
-- Response generation using Mistral models
+• MiniLM embeddings  
+• FAISS vector search  
+• LangChain query pipelines  
+• Mistral model response generation  
 
-Applications include document classification and contextual information retrieval.
-
----
-
-### Stock Price Prediction Model
-
-Developed a deep learning model for forecasting stock prices using historical financial data.
-
-Technical details:
-
-- Implemented LSTM neural networks
-- Preprocessed time-series data
-- Evaluated model accuracy using RMSE
-- Visualized predictions against real values
+Applications include contextual document querying and classification.
 
 ---
 
-### Sales Forecasting System
+### Machine Learning Projects
 
-A machine learning application designed to predict future sales trends.
+Explored several predictive modeling applications including:
 
-Key techniques:
-
-- Time-series forecasting using Facebook Prophet
-- Data preprocessing and feature engineering
-- Trend visualization for business insights
+• Stock price prediction using LSTM networks  
+• Sales forecasting using Facebook Prophet  
+• Environmental data prediction using ensemble models  
 
 ---
 
 ### Customer Support Chatbot
 
-Developed a rule-based NLP chatbot to assist with customer support queries.
+Built a rule-based NLP chatbot designed to automate customer support queries.
 
-Features:
+Key features:
 
-- Intent recognition
-- Text preprocessing
-- Response matching
-- Web interface built with Flask
-
----
-
-## Certifications
-
-- Introduction to Generative AI  
-- Web Applications with Django  
-- CNNs with TensorFlow  
-- Image Classification with Transfer Learning  
-- Python Full Stack Development with AI assistance  
+• Intent recognition  
+• Text preprocessing pipeline  
+• Response matching logic  
+• Web interface built using Flask  
 
 ---
 
-## Leadership and Community Activities
+# system.certifications
+
+• Introduction to Generative AI  
+• Web Applications with Django  
+• CNNs with TensorFlow  
+• Image Classification using Transfer Learning  
+• Python Full Stack Development with AI assistance  
+
+---
+
+# system.activities
 
 ### Coordinator — Street Cause ANITS
 
-Led community outreach initiatives and coordinated social welfare activities.
+Led community initiatives and coordinated volunteer teams for social welfare programs.
 
-Responsibilities included organizing social projects, managing volunteers, and coordinating event logistics.
+Responsibilities included organizing outreach programs and managing event logistics.
 
 ---
 
 ### Volunteer — Street Cause
 
-Participated in social service programs including distribution of essentials and community engagement initiatives.
+Participated in social service initiatives including community engagement programs and distribution drives.
 
 ---
 
 ### Class Representative — ANITS
 
-Served as a communication bridge between faculty and students while representing academic concerns and feedback.
+Served as a communication bridge between faculty and students, representing academic concerns and feedback.
 
 ---
 
-## GitHub Statistics
+# system.analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SAIVISHAL007&show_icons=true&theme=tokyonight" />
@@ -290,7 +286,7 @@ Served as a communication bridge between faculty and students while representing
 
 ---
 
-## Most Used Languages
+# system.languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIVISHAL007&layout=compact&theme=tokyonight" />
@@ -298,12 +294,24 @@ Served as a communication bridge between faculty and students while representing
 
 ---
 
-## Connect
+# system.contact
 
-GitHub  
-LinkedIn  
-Email: chellurisaivishal.23.csm@anits.edu.in
+<pre>
+github     : github.com/SAIVISHAL007
+email      : chellurisaivishal@gmail.com
+email      : chellurisaivishal.23.csm@anits.edu.in
+linkedin   : https://www.linkedin.com/in/chelluri-sai-vishal/
+portfolio  : chellurisaivishal.netlify.app
+</pre>
 
 ---
 
-Consistently building software systems and expanding engineering depth through practical projects and experimentation.
+<pre>
+vishal@github:~$ system.shutdown
+
+saving_progress...
+committing_code...
+pushing_to_github...
+
+status: developer_online
+</pre>
