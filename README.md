@@ -12,8 +12,6 @@
 building scalable web applications and intelligent systems
 </p>
 
----
-
 <pre>
 vishal@github:~$ whoami
 chelluri-sai-vishal
@@ -30,9 +28,7 @@ vishal@github:~$ status
 actively_building_projects
 </pre>
 
----
-
-# system.profile
+## system.profile
 
 I am a Computer Science engineering student specializing in Artificial Intelligence and Machine Learning. My work focuses on building practical software systems that combine strong backend architecture with modern frontend experiences.
 
@@ -47,9 +43,7 @@ Areas of focus include:
 • Machine learning applications  
 • Scalable backend architecture  
 
----
-
-# system.education
+## system.education
 
 <pre>
 institution : Anil Neerukonda Institute of Technology & Sciences
@@ -58,9 +52,7 @@ duration    : 2023 - 2027
 cgpa        : 8.43 / 10
 </pre>
 
----
-
-# system.tech_stack
+## system.tech_stack
 
 ### programming_languages
 
@@ -85,8 +77,8 @@ Libraries and tools used frequently:
 • Scikit-learn  
 • LangChain  
 • FAISS  
-• LSTM neural networks  
-• Random Forest models  
+• LSTM  
+• Random Forest  
 
 ### tools
 
@@ -94,108 +86,87 @@ Libraries and tools used frequently:
 <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
-Other tools used in projects:
+Other tools:
 
 • Streamlit  
 • GitHub Copilot  
 • Postman  
 
----
-
-# system.experience
+## system.experience
 
 ### AR Development Extern — Snap Inc.
 
 Worked on augmented reality experiences and interactive storytelling using Lens Studio.
 
-Responsibilities included:
-
-• Prototyping AR filters and visual interactions  
-• Exploring visual scripting techniques  
-• Studying user engagement patterns in AR environments  
-• Integrating narrative concepts into interactive experiences  
+• Prototyped AR filters and visual interactions  
+• Explored visual scripting techniques  
+• Studied user engagement in AR environments  
+• Integrated narrative elements into interactive media  
 
 ---
 
 ### AI & Automation Extern — Outamation
 
-Worked on building a Retrieval-Augmented Generation pipeline for enterprise document processing.
+Worked on a Retrieval-Augmented Generation pipeline for enterprise document intelligence.
 
-Key contributions:
-
-• Implemented RAG architecture using Mistral 7B models  
-• Built document classification pipelines using MiniLM embeddings  
-• Designed FAISS vector indexes for document retrieval  
-• Optimized chunking and retrieval logic for accuracy and speed  
+• Implemented RAG architecture using Mistral models  
+• Built document classification using MiniLM embeddings  
+• Designed FAISS vector search indexes  
+• Optimized chunking and retrieval pipelines  
 
 ---
 
-### Machine Learning Intern — Edunet Foundation (AICTE Internship)
+### Machine Learning Intern — Edunet Foundation
 
-Developed a multi-output regression system for predicting environmental pollutants.
+Developed a multi-output regression system for environmental pollutant prediction.
 
-Key work:
-
-• Built Random Forest regression models  
+• Built Random Forest models  
 • Engineered domain-specific features  
 • Applied encoding and missing value strategies  
-• Evaluated performance using R² and MSE metrics  
-• Deployed the solution using Streamlit  
+• Evaluated models using R² and MSE  
+• Deployed application using Streamlit  
 
 ---
 
 ### SOC Analyst Intern — Cyberthreya
 
-Gained exposure to Security Operations Center workflows.
+• Worked with Microsoft Azure Sentinel  
+• Monitored security logs  
+• Performed threat detection exercises  
+• Configured Azure monitoring agents  
 
-Work involved:
+## system.projects
 
-• Monitoring security logs using Microsoft Azure Sentinel  
-• Performing threat analysis exercises  
-• Working with Azure monitoring agents and log pipelines  
+### Student Late Tracking System (MERN)
 
----
+A production-ready web platform designed for monitoring student attendance behavior.
 
-# system.projects
+Features:
 
-### Student Late Tracking System (MERN Stack)
-
-A production-ready web platform designed to monitor student attendance behavior in educational institutions.
-
-Core features:
-
-• Role-based authentication (SuperAdmin, Admin, Faculty)  
+• Role-based authentication  
 • Real-time attendance monitoring  
-• Automated fine calculation system  
-• Analytics dashboard with financial insights  
+• Automated fine calculation  
+• Analytics dashboard  
 • Exportable reports  
 
-Technical architecture:
+Architecture:
 
-• 20+ REST APIs built using Node.js and Express  
-• MongoDB schema optimization with indexing  
-• JWT authentication with secure password hashing  
-• Serverless backend deployment  
+• Node.js + Express REST APIs  
+• MongoDB indexing and schema optimization  
+• JWT authentication  
 • Responsive React frontend  
 
 Repository  
 https://github.com/SAIVISHAL007/StudentLateTrackingSystem-Clean
 
----
-
 ### Hostel Management System with AI Chatbot
 
-A web platform designed to streamline hostel management operations.
-
-Key components:
-
-• Complaint management system  
-• Room allocation management  
+• Complaint management  
+• Room allocation system  
 • Admin dashboard  
-• AI chatbot powered by Gemini API  
-• Responsive interface  
+• AI chatbot powered by Gemini  
 
-Technologies used:
+Tech stack:
 
 Django  
 HTML  
@@ -206,75 +177,59 @@ JavaScript
 
 ### AI Document Retrieval System
 
-An intelligent document query system based on Retrieval-Augmented Generation.
-
-Architecture includes:
+RAG architecture including:
 
 • MiniLM embeddings  
 • FAISS vector search  
-• LangChain query pipelines  
-• Mistral model response generation  
-
-Applications include contextual document querying and classification.
+• LangChain pipelines  
+• Mistral response generation  
 
 ---
 
-### Machine Learning Projects
+### Machine Learning Experiments
 
-Explored several predictive modeling applications including:
-
-• Stock price prediction using LSTM networks  
+• Stock price prediction using LSTM  
 • Sales forecasting using Facebook Prophet  
-• Environmental data prediction using ensemble models  
+• Environmental pollutant prediction  
 
 ---
 
 ### Customer Support Chatbot
 
-Built a rule-based NLP chatbot designed to automate customer support queries.
-
-Key features:
+Rule-based NLP chatbot for customer support automation.
 
 • Intent recognition  
-• Text preprocessing pipeline  
-• Response matching logic  
-• Web interface built using Flask  
+• Text preprocessing  
+• Response matching  
+• Flask web interface  
 
----
-
-# system.certifications
+## system.certifications
 
 • Introduction to Generative AI  
 • Web Applications with Django  
 • CNNs with TensorFlow  
-• Image Classification using Transfer Learning  
+• Image Classification with Transfer Learning  
 • Python Full Stack Development with AI assistance  
 
----
-
-# system.activities
+## system.activities
 
 ### Coordinator — Street Cause ANITS
 
-Led community initiatives and coordinated volunteer teams for social welfare programs.
-
-Responsibilities included organizing outreach programs and managing event logistics.
+Led community outreach initiatives and coordinated volunteer teams for social welfare programs.
 
 ---
 
 ### Volunteer — Street Cause
 
-Participated in social service initiatives including community engagement programs and distribution drives.
+Participated in community engagement programs and distribution drives.
 
 ---
 
 ### Class Representative — ANITS
 
-Served as a communication bridge between faculty and students, representing academic concerns and feedback.
+Acted as liaison between students and faculty to communicate academic concerns.
 
----
-
-# system.analytics
+## system.analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SAIVISHAL007&show_icons=true&theme=tokyonight" />
@@ -284,17 +239,13 @@ Served as a communication bridge between faculty and students, representing acad
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIVISHAL007&theme=tokyonight" />
 </p>
 
----
-
-# system.languages
+## system.languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIVISHAL007&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-# system.contact
+## system.contact
 
 <pre>
 github     : github.com/SAIVISHAL007
@@ -303,8 +254,6 @@ email      : chellurisaivishal.23.csm@anits.edu.in
 linkedin   : https://www.linkedin.com/in/chelluri-sai-vishal/
 portfolio  : chellurisaivishal.netlify.app
 </pre>
-
----
 
 <pre>
 vishal@github:~$ system.shutdown
