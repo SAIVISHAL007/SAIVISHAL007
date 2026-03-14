@@ -26,7 +26,7 @@ Areas of focus include full stack development, intelligent automation systems, m
 Anil Neerukonda Institute of Technology & Sciences (ANITS)  
 2023 – 2027  
 
-CGPA: 8.26 / 10
+CGPA: 8.43 / 10
 
 ---
 
